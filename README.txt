@@ -1,32 +1,23 @@
-Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Eric Vetha's Portfolio Website
 
+Welcome to my personal website. This site serves as a straightforward documentation of my professional background, publications and projects, and ongoing exploration of fitness-related hobbies.
 
-This is Massively, a text-heavy, article-oriented design built around a huge background
-image (with a new parallax implementation I'm testing) and scroll effects (powered by
-Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
-that fulfills a few user requests and makes use of some new techniques I've been wanting
-to try out. Enjoy it :)
+## Sections
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+### [Curriculum Vitae](https://ericdvet.github.io/)
 
-(* = not included)
+Explore my professional journey, academic background, and skills through my curriculum vitae.
 
-AJ
-aj@lkn.io | @ajlkn
+### [Publications & Projects](https://ericdvet.github.io/projects.html)
 
+Discover my academic publications and noteworthy projects, showcasing my expertise and interests.
 
-Credits:
+### [Publications & Projects](https://ericdvet.github.io/hobbies.html)
 
-	Demo Images:
-		Unsplash (unsplash.com)
+A work in progress, this section will feature my achievements and experiences in fitness-related hobbies.
 
-	Icons:
-		Font Awesome (fontawesome.io)
+Thank you for visiting.
 
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+---
+
+**Acknowledgment:** This website is built using the Massively template by [HTML5 UP](https://html5up.net), created by @ajlkn. It is available for free for personal and commercial use under the [CCA 3.0 license](https://html5up.net/license).
