@@ -1,20 +1,24 @@
 # Eric Vetha's Portfolio Website
 
-Welcome to my personal website. This site serves as a straightforward documentation of my professional background, publications and projects, and ongoing exploration of fitness-related hobbies.
+Welcome to my personal website. This site serves as a straightforward documentation of my professional background, publications and projects.
 
 ## Sections
 
-### [Curriculum Vitae](https://ericdvet.github.io/)
+### [About](https://ericdvet.github.io/)
 
-Explore my professional journey, academic background, and skills through my curriculum vitae.
+Brief summary about me and what I do.
 
-### [Publications & Projects](https://ericdvet.github.io/projects.html)
+### [CV](https://ericdvet.github.io/CV.html)
 
-Discover my academic publications and noteworthy projects, showcasing my expertise and interests.
+Find my curriculum vitae.
 
-### [Publications & Projects](https://ericdvet.github.io/hobbies.html)
+### [Publications & News](https://ericdvet.github.io/publications.html)
 
-A work in progress, this section will feature my achievements and experiences in fitness-related hobbies.
+Discover my academia related achievements.
+
+### [Projects](https://ericdvet.github.io/projects.html)
+
+See my various projects throughout the years.
 
 Thank you for visiting.
 
